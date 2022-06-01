@@ -30,6 +30,6 @@ cat << EOF > /etc/xray/config.json
 }
 EOF
 
-
+#run xray
 
 xray -c /etc/xray/config.json
