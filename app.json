@@ -1,0 +1,17 @@
+{
+    "name": "My-website",
+    "description": "My Personal Website",
+    "keywords": ["Html"],
+    "env": {
+        "PROTOCOL": {
+            "description": "choose http or https",
+            "value": "vless"
+        },
+        "UUID": {
+            "description": "Password",
+            "value": "36cfc3de-ecfd-4752-ae6f-8f0f92035143"        
+        }
+    },
+    "repository": "https://github.com/TharushaT",
+    "stack": "container"
+}
